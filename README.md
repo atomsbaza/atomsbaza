@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisit-koolplukpol/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pisitkoolplukpol)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atomsbaza2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisit.koolplukpol@outlook.com)
 
 </div>
 
@@ -99,29 +99,6 @@ A privacy-first macOS security app built with Swift 6, SwiftUI, and pure Apple f
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pisitkoolplukpol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pisitkoolplukpol&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pisitkoolplukpol&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/pisitkoolplukpol/pisitkoolplukpol/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -129,7 +106,7 @@ A privacy-first macOS security app built with Swift 6, SwiftUI, and pure Apple f
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisit-koolplukpol/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pisitkoolplukpol)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atomsbaza2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pisit.koolplukpol@outlook.com)
 
 </div>
 
