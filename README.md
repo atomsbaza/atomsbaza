@@ -62,14 +62,6 @@ A privacy-first macOS security app built with Swift 6, SwiftUI, and pure Apple f
 
 ---
 
-### ⌨️ [CapsLockNoDelay](https://github.com/pisitkoolplukpol/CapsLockNoDelay)
-> Eliminate the Caps Lock input delay on macOS
-
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)](https://github.com/pisitkoolplukpol/CapsLockNoDelay)
-[![AppKit](https://img.shields.io/badge/AppKit-147EFB?style=flat-square&logo=apple&logoColor=white)](https://github.com/pisitkoolplukpol/CapsLockNoDelay)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
